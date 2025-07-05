@@ -7,3 +7,4 @@ a time to do this is now and can be changed in the future
 i dont want this in the main page
 it shoudld be a minimum 10 edit
 can be changed in the future
+what if i delete all
