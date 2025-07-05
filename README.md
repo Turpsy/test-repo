@@ -14,3 +14,4 @@ helpful
 clarity
 confidence
 that was expensive
+be fast
