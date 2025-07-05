@@ -15,3 +15,4 @@ clarity
 confidence
 that was expensive
 be fast
+right now
